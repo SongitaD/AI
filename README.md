@@ -34,7 +34,8 @@ These models work with data that doesn’t have labels, and they try to find pat
 
 ### Clustering Models:
 Example: K-Means groups similar data points together, which can help in segmenting customers or organizing information.
-Dimensionality Reduction Models:
+
+** Dimensionality Reduction Models: **
 Example: Principal Component Analysis (PCA) reduces the number of features while keeping the most important information, making data easier to visualize and work with.
 
 
@@ -43,6 +44,8 @@ Example: Principal Component Analysis (PCA) reduces the number of features while
 These models learn by interacting with an environment. An agent takes actions and learns what to do by receiving rewards or penalties.
 
 Example: In a video game, the model (or agent) learns strategies by trying different moves, receiving points for good moves, and avoiding mistakes to improve its score over time.
+
+
 Each type of model has its strengths and is chosen based on the specific problem you’re trying to solve. Machine learning is all about finding the right tool for the job, whether it’s predicting numbers, classifying items, grouping similar things together, or learning from interactions.
 
 
