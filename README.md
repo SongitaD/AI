@@ -14,13 +14,15 @@ These models learn from data that includes the “right answers” (labels).
 ### a. Regression Models:
 Example: Linear Regression predicts continuous outcomes (like predicting house prices) by finding a straight-line relationship in the data.
 
- Classification Models:
+### b. Classification Models:
 Example: Logistic Regression and Decision Trees classify data into categories (like deciding if an email is spam or not).
 
-Other Examples:
+### c. Other Examples:
 Support Vector Machines (SVM): They find a boundary that best separates different classes.
 
-Neural Networks: Inspired by the human brain, these models can learn complex patterns and are used for tasks like image and speech recognition.
+### Neural Networks: 
+Inspired by the human brain, these models can learn complex patterns and are used for tasks like image and speech recognition.
+
 Ensemble Methods:
 Example: Random Forests combine many decision trees to improve accuracy and robustness.
 
