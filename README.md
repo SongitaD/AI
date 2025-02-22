@@ -6,13 +6,15 @@ I am also including some basic alogorithm implementations for Machine Learning.
 
 There are many types of machine learning models, each suited for different kinds of tasks. Here's a simple breakdown:
 
-1. Supervised Learning Models
+## Machine Learning
+
+# Supervised Learning Models
 These models learn from data that includes the “right answers” (labels).
 
-a. Regression Models:
+** a. Regression Models:
 Example: Linear Regression predicts continuous outcomes (like predicting house prices) by finding a straight-line relationship in the data.
 
-b. Classification Models:
+ Classification Models:
 Example: Logistic Regression and Decision Trees classify data into categories (like deciding if an email is spam or not).
 
 Other Examples:
