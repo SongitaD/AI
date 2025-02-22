@@ -2,7 +2,7 @@ This project(PredictStock) takes stock ticker as an input and gets stock data us
 We then use Python Matplotlib to plot and predict the movement of the stock in next 90 days.
 
 
-I am also including some basic alogorithm implementations for Machine Learning.
+I am also including some basic algorithm implementations for Machine Learning.
 
 There are many types of machine learning models, each suited for different kinds of tasks. Here's a simple breakdown:
 
