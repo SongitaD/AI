@@ -23,6 +23,7 @@ Ensemble Methods:
 Example: Random Forests combine many decision trees to improve accuracy and robustness.
 
 
+
 2. Unsupervised Learning Models
 These models work with data that doesn’t have labels, and they try to find patterns or groupings on their own.
 
@@ -30,6 +31,7 @@ Clustering Models:
 Example: K-Means groups similar data points together, which can help in segmenting customers or organizing information.
 Dimensionality Reduction Models:
 Example: Principal Component Analysis (PCA) reduces the number of features while keeping the most important information, making data easier to visualize and work with.
+
 
 
 3. Reinforcement Learning Models
