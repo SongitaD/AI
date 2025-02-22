@@ -8,7 +8,7 @@ There are many types of machine learning models, each suited for different kinds
 
 # Machine Learning
 
-## Supervised Learning Models
+## 1. Supervised Learning Models
 These models learn from data that includes the “right answers” (labels).
 
 ### a. Regression Models:
@@ -23,22 +23,23 @@ Support Vector Machines (SVM): They find a boundary that best separates differen
 ### Neural Networks: 
 Inspired by the human brain, these models can learn complex patterns and are used for tasks like image and speech recognition.
 
+
 Ensemble Methods:
 Example: Random Forests combine many decision trees to improve accuracy and robustness.
 
 
 
-2. Unsupervised Learning Models
+## 2. Unsupervised Learning Models
 These models work with data that doesn’t have labels, and they try to find patterns or groupings on their own.
 
-Clustering Models:
+### Clustering Models:
 Example: K-Means groups similar data points together, which can help in segmenting customers or organizing information.
 Dimensionality Reduction Models:
 Example: Principal Component Analysis (PCA) reduces the number of features while keeping the most important information, making data easier to visualize and work with.
 
 
 
-3. Reinforcement Learning Models
+## 3. Reinforcement Learning Models
 These models learn by interacting with an environment. An agent takes actions and learns what to do by receiving rewards or penalties.
 
 Example: In a video game, the model (or agent) learns strategies by trying different moves, receiving points for good moves, and avoiding mistakes to improve its score over time.
