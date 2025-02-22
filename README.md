@@ -35,7 +35,7 @@ These models work with data that doesn’t have labels, and they try to find pat
 ### Clustering Models:
 Example: K-Means groups similar data points together, which can help in segmenting customers or organizing information.
 
-** Dimensionality Reduction Models: **
+ Dimensionality Reduction Models: 
 Example: Principal Component Analysis (PCA) reduces the number of features while keeping the most important information, making data easier to visualize and work with.
 
 
