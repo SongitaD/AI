@@ -27,3 +27,8 @@ Eventually, it becomes good at deciding if a new photo shows a cat or a dog—al
 | **Complexity of Tasks** | Suitable for simpler to moderately complex tasks.             | Excels at handling highly complex tasks like image and speech recognition. |
 | **Examples**            | Linear Regression, Decision Trees, SVM, etc.                  | CNNs, RNNs, etc.                                                       |
 
+
+Deep Learning completely automates the step of feature engineering and this is a major advantage.
+
+
+
