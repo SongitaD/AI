@@ -1,4 +1,3 @@
-# Deep Learning Notes
 
 # Deep Learning
 Deep learning is a way to teach computers to learn and make decisions on their own by using models that are inspired by how our brains work. 
@@ -10,6 +9,13 @@ Instead of telling it exactly what to look for, you feed it thousands of picture
 The deep learning model starts by recognizing simple things like edges or colors in the first layer, and as the information moves through more layers, 
 it learns more complex features like shapes, textures, or specific patterns unique to cats or dogs. 
 Eventually, it becomes good at deciding if a new photo shows a cat or a dog—all by learning from examples.
+
+# Deep Learning vs. Machine Learning
+
+**Machine Learning** is a broad field where computers learn from data to make predictions or decisions. It includes a variety of techniques like linear regression, decision trees, and support vector machines, often relying on manually selected features.
+
+**Deep Learning** is a specialized branch of machine learning that uses artificial neural networks with many layers. These networks automatically learn the features from raw data, which is especially useful for complex tasks like image or speech recognition.
+
 
 | **Aspect**              | **Machine Learning**                                          | **Deep Learning**                                                     |
 |-------------------------|---------------------------------------------------------------|----------------------------------------------------------------------|
